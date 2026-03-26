@@ -1,0 +1,5 @@
+{
+  "name": "Siyana Auto",
+  "description": "Professional automotive service connection platform for car maintenance, emergency help, and spare parts.",
+  "requestFramePermissions": ["geolocation"]
+}
